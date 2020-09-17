@@ -1,0 +1,22 @@
+{
+  "name": "gulp-opgave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heidi2101/Gulp-opgave.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heidi2101/Gulp-opgave/issues"
+  },
+  "homepage": "https://github.com/Heidi2101/Gulp-opgave#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
